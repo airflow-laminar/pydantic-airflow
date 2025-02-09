@@ -6,9 +6,9 @@ Pydantic models for Apache Airflow
 [![codecov](https://codecov.io/gh/airflow-laminar/pydantic-airflow/branch/main/graph/badge.svg)](https://codecov.io/gh/airflow-laminar/pydantic-airflow)
 [![License](https://img.shields.io/github/license/airflow-laminar/pydantic-airflow)](https://github.com/airflow-laminar/pydantic-airflow)
 [![PyPI](https://img.shields.io/pypi/v/pydantic-airflow.svg)](https://pypi.python.org/pypi/pydantic-airflow)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airflow-laminar/pydantic-airflow/main?urlpath=lab)
 
 ## Overview
+Wrapper for [airflow-pydantic](https://github.com/airflow-laminar/airflow-pydantic).
 
 
 > [!NOTE]
