@@ -8,6 +8,7 @@ Pydantic models for Apache Airflow
 [![PyPI](https://img.shields.io/pypi/v/pydantic-airflow.svg)](https://pypi.python.org/pypi/pydantic-airflow)
 
 ## Overview
+
 Wrapper for [airflow-pydantic](https://github.com/airflow-laminar/airflow-pydantic).
 
 > [!NOTE]
