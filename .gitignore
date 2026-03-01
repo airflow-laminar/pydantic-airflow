@@ -141,14 +141,12 @@ js/node_modules
 js/test-results
 js/playwright-report
 js/*.tgz
-pydantic_airflow/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
 Untitled*.ipynb
-!pydantic_airflow/extension/pydantic_airflow.json
-!pydantic_airflow/extension/install.json
+pydantic_airflow/extension
 pydantic_airflow/nbextension
 pydantic_airflow/labextension
 
@@ -157,3 +155,7 @@ pydantic_airflow/labextension
 
 # Rust
 target
+
+# Hydra
+outputs/
+multirun/
